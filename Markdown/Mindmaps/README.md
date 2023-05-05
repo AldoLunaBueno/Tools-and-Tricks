@@ -1,4 +1,4 @@
-img[title = bigfive] {
+img[title = "bigfive"] {
    width:500px;
    height:700px;
 }
