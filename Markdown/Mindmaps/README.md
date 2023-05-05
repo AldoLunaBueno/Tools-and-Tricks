@@ -1,1 +1,1 @@
-![](sources/bigfive.svg)
+![](sources/bigfive.svg)<img src:"sources/bigfive.svg">
