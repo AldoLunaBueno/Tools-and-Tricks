@@ -1,5 +1,5 @@
-img[src*="sources/bigfive.svg"] {
+img[title = bigfive] {
    width:500px;
    height:700px;
 }
-<!-- src = sources/bigfive.svg -->
+![img](sources/bigfive.svg "bigfive") <!-- title = bigfive -->
