@@ -1,1 +1,1 @@
-<img src="sources/bigfive.svg" style="height:700;">
+<img src="sources/bigfive.svg" height=700">
