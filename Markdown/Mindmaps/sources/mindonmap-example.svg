@@ -1,0 +1,206 @@
+<svg id="kity_svg_12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+    width="592" height="244"
+    style="font-family: Arial, &quot;Microsoft Yahei&quot;,  &quot;Heiti SC&quot;; background: #fbfdff"
+    viewBox="278 -23 592 244">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <defs>
+        <style>
+            p {
+                margin: 0;
+                padding: 0
+            }
+
+            #minder_selectedRect_container {
+                display: none
+            }
+        </style>
+    </defs>
+    <defs id="kity_defs_13">
+        <linearGradient id="kity_linearGradient_30" x1="0" y1="0" x2="0" y2="0">
+            <stop id="kity_stop_31" offset="0" stop-color="rgb(255, 255, 255)"></stop>
+            <stop id="kity_stop_32" offset="1" stop-color="rgb(49, 151, 255)"></stop>
+        </linearGradient>
+        <g id="symbol-nwse-resize" style="cursor: nwse-resize;">
+            <path id="kity_path_1" fill="white" stroke="#409eff" d="M16,6A10,10,0,1,1,-4,6A10,10,0,1,1,16,6"></path>
+            <path id="kity_path_2" fill="#3297FF" stroke="none"
+                d="M11.3 12.4l-3.8-.5c-.4 0-.7-.3-.8-.7-.1-.4 0-.8.2-1l.8-.8-4.2-4.2-.8.8c-.2.2-.4.3-.7.3-.5 0-.9-.4-1-.9L.5 1.6c0-.3.1-.6.2-.8.2-.2.5-.3.7-.3h.1l3.8.5c.4 0 .7.3.8.7.1.4 0 .8-.2 1l-.8.8 4.2 4.2.8-.8c.2-.2.4-.3.7-.3.5 0 .9.4 1 .9l.5 3.8c0 .3-.1.6-.2.8-.2.2-.5.3-.7.3h-.1">
+            </path>
+        </g>
+        <g id="symbol-close-btn" style="cursor: pointer;">
+            <path id="kity_path_4" fill="white" stroke="#409eff" d="M16,6A10,10,0,1,1,-4,6A10,10,0,1,1,16,6"></path>
+            <path id="kity_path_5" fill="#3297FF" stroke="none"
+                d="m11.46014,10.29017l-3.82113,-4.10542l3.82042,-4.10542l-1.96403,-2.11166l-3.82113,4.10542l-3.82113,-4.10542l-1.96403,2.11166l3.82042,4.10542l-3.82113,4.10542l1.96543,2.11091l3.82042,-4.10542l3.82042,4.10542">
+            </path>
+        </g>
+        <marker id="kity_marker_198" orient="auto" markerWidth="8" markerHeight="8" refX="2" refY="4">
+            <path id="kity_path_199" fill="rgb(235, 95, 88)" stroke="none" d="M 2 2 L 6 4 L 2 6"></path>
+        </marker>
+        <clipPath id="kity_clipPath_200">
+            <path id="kity_path_201" fill="none" stroke="none" clip-rule="evenodd"
+                d="M-10,-10L438.5339050292969,-10L438.5339050292969,219.36203002929688L-10,219.36203002929688M259,113L316,113L316,131L259,131">
+            </path>
+        </clipPath>
+        <marker id="kity_marker_247" orient="auto" markerWidth="8" markerHeight="8" refX="2" refY="4">
+            <path id="kity_path_248" fill="rgb(235, 95, 88)" stroke="none" d="M 2 2 L 6 4 L 2 6"></path>
+        </marker>
+        <clipPath id="kity_clipPath_249" display="none">
+            <path id="kity_path_250" fill="none" stroke="none" clip-rule="evenodd"
+                d="M-10,-10L423.14691162109375,-10L423.14691162109375,189.5587921142578L-10,189.5587921142578M296,105L353,105L353,123L296,123">
+            </path>
+        </clipPath>
+        <marker id="kity_marker_271" orient="auto" markerWidth="8" markerHeight="8" refX="2" refY="4">
+            <path id="kity_path_272" fill="rgb(235, 95, 88)" stroke="none" d="M 2 2 L 6 4 L 2 6"></path>
+        </marker>
+        <clipPath id="kity_clipPath_273">
+            <path id="kity_path_274" fill="none" stroke="none" clip-rule="evenodd"
+                d="M-10,-10L496.5339050292969,-10L496.5339050292969,175.36203002929688L-10,175.36203002929688M311,99L311,99L311,99L311,99">
+            </path>
+        </clipPath>
+        <marker id="kity_marker_381" orient="auto" markerWidth="8" markerHeight="8" refX="2" refY="4">
+            <path id="kity_path_382" fill="rgb(235, 95, 88)" stroke="none" d="M 2 2 L 6 4 L 2 6"></path>
+        </marker>
+        <clipPath id="kity_clipPath_383" display="none">
+            <path id="kity_path_384" fill="none" stroke="none" clip-rule="evenodd"
+                d="M-10,-10L10,-10L10,10L-10,10M285,98L342,98L342,116L285,116"></path>
+        </clipPath>
+        <marker id="kity_marker_410" orient="auto" markerWidth="8" markerHeight="8" refX="2" refY="4">
+            <path id="kity_path_411" fill="rgb(235, 95, 88)" stroke="none" d="M 2 2 L 6 4 L 2 6"></path>
+        </marker>
+        <clipPath id="kity_clipPath_412">
+            <path id="kity_path_413" fill="none" stroke="none" clip-rule="evenodd"
+                d="M-10,-10L423.00537109375,-10L423.00537109375,202.8854217529297L-10,202.8854217529297M287,100L344,100L344,118L287,118">
+            </path>
+        </clipPath>
+        <marker id="kity_marker_466" orient="auto" markerWidth="8" markerHeight="8" refX="2" refY="4">
+            <path id="kity_path_467" fill="rgb(235, 95, 88)" stroke="none" d="M 2 2 L 6 4 L 2 6"></path>
+        </marker>
+        <clipPath id="kity_clipPath_468" display="none">
+            <path id="kity_path_469" fill="none" stroke="none" clip-rule="evenodd"
+                d="M-79.89856719970703,-10L89.72774505615234,-10L89.72774505615234,118.11854553222656L-79.89856719970703,118.11854553222656M-24,62L33,62L33,80L-24,80">
+            </path>
+        </clipPath>
+        <marker id="kity_marker_513" orient="auto" markerWidth="8" markerHeight="8" refX="2" refY="4">
+            <path id="kity_path_514" fill="rgb(235, 95, 88)" stroke="none" d="M 2 2 L 6 4 L 2 6"></path>
+        </marker>
+        <clipPath id="kity_clipPath_515" display="none">
+            <path id="kity_path_516" fill="none" stroke="none" clip-rule="evenodd"
+                d="M-10,-10L280.2777099609375,-10L280.2777099609375,119.44756317138672L-10,119.44756317138672M169,54L226,54L226,72L169,72">
+            </path>
+        </clipPath>
+    </defs>
+    <g id="kity_g_14" transform="translate(0.5, 0.5)">
+        <g id="minder1" text-rendering="geometricPrecision"
+            transform="translate( 491.49998999387014 25.49999612569809 ) matrix( 1 0 0 1 0 0 )">
+            <g id="minder_connect_container" stroke-linecap="round"></g>
+            <g id="minder_rel_line_container">
+                <g id="minder_rel_line6" style="display: block;">
+                    <path id="kity_path_464" fill="none" stroke="rgb(235, 95, 88)" marker-end="url(#kity_marker_466)"
+                        clip-path="[object Object]" stroke-width="2" stroke-dasharray="8,4"
+                        d="M0,0M79.72775067094622,30.490698886392217C26.499966777861346,89.999993902445,-45.00003283470846,59.99999440908448,-69.89856713253384,108.11854876363027">
+                    </path>
+                    <path id="kity_path_465" fill="none" stroke="transparent" stroke-width="10"
+                        d="M0,0M79.72775067094622,30.490698886392217C26.499966777861346,89.999993902445,-45.00003283470846,59.99999440908448,-69.89856713253384,108.11854876363027"
+                        style="cursor: pointer;"></path>
+                </g>
+                <g id="minder_rel_line7" style="display: block;">
+                    <path id="kity_path_511" fill="none" stroke="rgb(235, 95, 88)" marker-end="url(#kity_marker_513)"
+                        clip-path="[object Object]" stroke-width="2" stroke-dasharray="8,4"
+                        d="M0,0M125.30288146563302,30.7181363103378C178.49996451288484,119.99999345541016,180.49996141344332,5.999994409084479,270.2776965050126,109.44756167718336">
+                    </path>
+                    <path id="kity_path_512" fill="none" stroke="transparent" stroke-width="10"
+                        d="M0,0M125.30288146563302,30.7181363103378C178.49996451288484,119.99999345541016,180.49996141344332,5.999994409084479,270.2776965050126,109.44756167718336"
+                        style="cursor: pointer;"></path>
+                </g>
+            </g>
+            <g id="minder_node_container">
+                <g id="minder_node1" transform="matrix( 1 0 0 1 0 0 )">
+                    <path id="node_outline1" fill="rgba(50, 151, 255, 1)" stroke="rgb(255,255,255)"
+                        d="M-17,-29h248a8,8,0,0,1,8,8v42a8,8,0,0,1,-8,8h-248a8,8,0,0,1,-8,-8v-42a8,8,0,0,1,8,-8z"
+                        stroke-width="0" stroke-dasharray=""></path>
+                    <g id="node_text1" transform="translate( 0 -14 )">
+                        <foreignObject id="kity_foreignObject_35" width="214" height="29" pointer-events="none"
+                            style="overflow: visible;">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                style="display: inline-block; line-height: 1.2; vertical-align: top; white-space: pre; overflow-wrap: break-word; tab-size: 4; margin: 0px; text-align: left; color: rgb(255, 255, 255); font-weight: bold; font-size: 24px;">
+                                <p>Arrays &amp; Hashing</p>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g id="minder_node7" transform="matrix( 1 0 0 1 270 146 )" opacity="1">
+                    <path id="node_outline7" fill="rgba(50, 151, 255, 1)" stroke="rgb(255,255,255)"
+                        d="M-17,-29h98a8,8,0,0,1,8,8v42a8,8,0,0,1,-8,8h-98a8,8,0,0,1,-8,-8v-42a8,8,0,0,1,8,-8z"
+                        stroke-width="0" stroke-dasharray=""></path>
+                    <g id="node_text7" transform="translate( 0 -14 )">
+                        <foreignObject id="kity_foreignObject_169" width="64" style="overflow: visible;" height="29"
+                            pointer-events="none">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                style="display: inline-block; line-height: 1.2; vertical-align: top; white-space: pre; overflow-wrap: break-word; tab-size: 4; margin: 0px; text-align: left; color: rgb(255, 255, 255); font-weight: bold; font-size: 24px;">
+                                <p>Stack</p>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g id="minder_node18" transform="matrix( 1 0 0 1 -168 146 )" opacity="1">
+                    <path id="node_outline18" fill="rgba(50, 151, 255, 1)" stroke="rgb(255,255,255)"
+                        d="M-17,-29h191a8,8,0,0,1,8,8v42a8,8,0,0,1,-8,8h-191a8,8,0,0,1,-8,-8v-42a8,8,0,0,1,8,-8z"
+                        stroke-width="0" stroke-dasharray=""></path>
+                    <g id="node_text18" transform="translate( 0 -14 )">
+                        <foreignObject id="kity_foreignObject_425" width="157" style="overflow: visible;" height="29"
+                            pointer-events="none">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                style="display: inline-block; line-height: 1.2; vertical-align: top; white-space: pre; overflow-wrap: break-word; tab-size: 4; margin: 0px; text-align: left; color: rgb(255, 255, 255); font-weight: bold; font-size: 24px;">
+                                <p>Two pointers</p>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g id="minder_node19" transform="matrix( 1 0 0 1 -19 71 )" display="none">
+                    <path id="node_outline19" fill="transparent" stroke="transparent"
+                        d="M-1,-9h49a4,4,0,0,1,4,4v10a4,4,0,0,1,-4,4h-49a4,4,0,0,1,-4,-4v-10a4,4,0,0,1,4,-4z"
+                        stroke-width="0" stroke-dasharray=""></path>
+                    <g id="node_text19" transform="translate( 0 -7 )">
+                        <foreignObject id="kity_foreignObject_477" width="47" style="overflow: visible;" height="14"
+                            pointer-events="none">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                style="display: inline-block; line-height: 1.2; vertical-align: top; white-space: pre; overflow-wrap: break-word; tab-size: 4; margin: 0px; text-align: left; color: rgb(51, 51, 51); font-size: 12px;">
+                                <p>Relation</p>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g id="minder_node20" transform="matrix( 1 0 0 1 174 63 )" display="none">
+                    <path id="node_outline20" fill="transparent" stroke="transparent"
+                        d="M-1,-9h49a4,4,0,0,1,4,4v10a4,4,0,0,1,-4,4h-49a4,4,0,0,1,-4,-4v-10a4,4,0,0,1,4,-4z"
+                        stroke-width="0" stroke-dasharray=""></path>
+                    <g id="node_text20" transform="translate( 0 -7 )">
+                        <foreignObject id="kity_foreignObject_524" width="47" style="overflow: visible;" height="14"
+                            pointer-events="none">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                style="display: inline-block; line-height: 1.2; vertical-align: top; white-space: pre; overflow-wrap: break-word; tab-size: 4; margin: 0px; text-align: left; color: rgb(51, 51, 51); font-size: 12px;">
+                                <p>Relation</p>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+            </g>
+            <g id="minder_generalize_container"></g>
+            <g id="minder_selectedRect_container" style="pointer-events: none;"></g>
+            <g id="minder_touch_container"></g>
+            <g id="kity_g_25" display="none">
+                <path id="kity_path_26" fill="rgba(0, 255, 0, .5)" stroke="none" d="M149,158h20v26h-20z"></path>
+                <path id="kity_path_27" fill="none" stroke="#0f0" d="M149,158L149,184" stroke-width="1"></path>
+            </g>
+            <g id="kity_g_23" display="none">
+                <path id="kity_path_24" fill="rgba(0, 255, 0, .5)" stroke="#0f0"
+                    d="M92,158h47a5,5,0,0,1,5,5v16a5,5,0,0,1,-5,5h-47a5,5,0,0,1,-5,-5v-16a5,5,0,0,1,5,-5z"
+                    stroke-width="3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

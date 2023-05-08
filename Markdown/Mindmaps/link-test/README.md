@@ -1,0 +1,1 @@
+# Nodo x del mapa mental
