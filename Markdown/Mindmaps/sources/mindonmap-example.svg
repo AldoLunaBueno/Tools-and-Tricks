@@ -126,7 +126,8 @@
                         <foreignObject id="kity_foreignObject_35" width="214" height="29" pointer-events="none"
                             style="overflow: visible;">
                             <div xmlns="http://www.w3.org/1999/xhtml"
-                                style="display: inline-block; line-height: 1.2; vertical-align: top; white-space: pre; overflow-wrap: break-word; tab-size: 4; margin: 0px; text-align: left; color: rgb(255, 255, 255); font-weight: bold; font-size: 24px;"><a href="https://pomofocus.io/"><p>Arrays &amp; Hashing</p></a>
+                                style="display: inline-block; line-height: 1.2; vertical-align: top; white-space: pre; overflow-wrap: break-word; tab-size: 4; margin: 0px; text-align: left; color: rgb(255, 255, 255); font-weight: bold; font-size: 24px;"><a 
+                                xlink:href="https://pomofocus.io/"><p>Arrays &amp; Hashing</p></a>
                             </div>
                         </foreignObject>
                     </g>
