@@ -15,7 +15,9 @@
         }
 
         .markmap-foreign {
-            display: inline-block
+            display: inline-block;
+            color: white;
+            
         }
 
         .markmap-foreign a {
